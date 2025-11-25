@@ -43,15 +43,14 @@ You can access the non-Colab version of the project directly on GitHub:
    ```sh
    pip install --upgrade setuptools
    ```
-
-<!-- 6. Install dependencies:
+6. Install dependencies:
    ```sh
    pip install -r requirements.txt
    ```
 7. Freeze dependencies (optional):
    ```sh
    python -m pip freeze > requirements.txt
-   ``` -->
+   ```
 
 ## Notebooks
 
