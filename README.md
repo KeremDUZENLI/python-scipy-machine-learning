@@ -90,8 +90,13 @@ You can access the non-Colab version of the project directly on GitHub:
 
 ### Notebook Descriptions
 
-- [1. ](notebooks/X.ipynb) – Basics...
-- [2. ]()
+- [1. Linear Regression](notebooks/1_linear_regression.ipynb) – Predicts continuous values using fitted linear models.
+- [2. Logictic Regression](notebooks/2_logistic_regression.ipynb) - Performs binary classification with a sigmoid-based model.
+- [3. Multiclass Classification](notebooks/3_multiclass_classification.ipynb) - Classifies inputs into multiple classes using one-vs-all.
+- [4. Neural Network Back Propagation](notebooks/4_nn_back_propagation.ipynb) - Trains a neural network using forward and backward passes.
+- [5. Bias vs. Variance](notebooks/5_bias_vs_variance.ipynb) - Examines underfitting and overfitting via learning curves.
+- [6. Support Vector Machine (SVM)](notebooks/6_support_vector_machine.ipynb) - Classifies data using linear or kernel-based support vector machines.
+- [7. K-Mean Clustering](notebooks/7_k_means_clustering.ipynb) - Groups data into clusters for unsupervised learning.
 
 ## Acknowledgments
 
