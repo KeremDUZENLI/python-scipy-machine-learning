@@ -97,6 +97,7 @@ You can access the non-Colab version of the project directly on GitHub:
 - [5. Bias vs. Variance](notebooks/5_bias_vs_variance.ipynb) - Examines underfitting and overfitting via learning curves.
 - [6. Support Vector Machine (SVM)](notebooks/6_support_vector_machine.ipynb) - Classifies data using linear or kernel-based support vector machines.
 - [7. K-Mean Clustering](notebooks/7_k_means_clustering.ipynb) - Groups data into clusters for unsupervised learning.
+- [8. XGBOOST](notebooks/8_xgboost.ipynb) - XGBOOST algorithm usage example.
 
 ## Acknowledgments
 
